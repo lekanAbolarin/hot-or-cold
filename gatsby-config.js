@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/hot-or-cold",
+  pathPrefix: "/twitter-clone",
   siteMetadata: {
-    title: "hot-or-cold: implementation by mikeabolarin",
+    title: "twitter-clone: implementation by mikeabolarin",
     author: "Mike Abolarin",
-    description: "Nodejs implementation of hot-or-cold game",
+    description: "Nodejs implementation of twitter",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

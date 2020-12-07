@@ -1,6 +1,6 @@
 {
-  "name": "hot-or-cold",
-  "description": "Nodejs implementation of the hot-or-cold game",
+  "name": "twitter-clone",
+  "description": "Nodejs implementation of twitter",
   "version": "1.0.0",
   "author": "Mike Abolarin",
   "dependencies": {
@@ -34,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lekanabolarin/hot-or-cold"
+    "url": "https://github.com/lekanabolarin/twitter-clone"
   }
 }
