@@ -1,2 +1,2 @@
-# hot-or-cold
-Web implementation of the hot or cold game
+# twitter-clone
+Implementation of the twitter web-app by mike-abolarin (alias lekanAbolarin)
