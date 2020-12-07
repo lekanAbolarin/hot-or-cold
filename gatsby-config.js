@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/hot-or-cold",
   siteMetadata: {
     title: "hot-or-cold: implementation by mikeabolarin",
     author: "Mike Abolarin",
